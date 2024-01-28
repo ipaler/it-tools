@@ -2,7 +2,7 @@ import { ShortTextRound } from '@vicons/material';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'Hmac generator',
+  name: 'Hmac生成器',
   path: '/hmac-generator',
   description:
     'Computes a hash-based message authentication code (HMAC) using a secret key and your favorite hashing function.',

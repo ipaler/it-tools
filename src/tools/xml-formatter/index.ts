@@ -2,7 +2,7 @@ import { Code } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'XML formatter',
+  name: 'XML格式化',
   path: '/xml-formatter',
   description: 'Prettify your XML string to a human friendly readable format.',
   keywords: ['xml', 'prettify', 'format'],

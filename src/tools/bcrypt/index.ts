@@ -2,7 +2,7 @@ import { LockSquare } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'Bcrypt',
+  name: 'Bcrypt加密',
   path: '/bcrypt',
   description:
     'Hash and compare text string using bcrypt. Bcrypt is a password-hashing function based on the Blowfish cipher.',

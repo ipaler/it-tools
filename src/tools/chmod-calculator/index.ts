@@ -2,7 +2,7 @@ import { FileInvoice } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'Chmod calculator',
+  name: 'Chmod权限计算',
   path: '/chmod-calculator',
   description: 'Compute your chmod permissions and commands with this online chmod calculator.',
   keywords: [

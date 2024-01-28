@@ -2,7 +2,7 @@ import { Braces } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'JSON to YAML converter',
+  name: 'JSON 转 YAML',
   path: '/json-to-yaml-converter',
   description: 'Simply convert JSON to YAML with this live online converter.',
   keywords: ['yaml', 'to', 'json'],

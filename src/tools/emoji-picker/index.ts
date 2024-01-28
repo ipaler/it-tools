@@ -2,7 +2,7 @@ import { MoodSmile } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'Emoji picker',
+  name: 'Emoji表情选择器',
   path: '/emoji-picker',
   description: 'Copy and paste emojis easily and get the unicode and code points value of each emoji.',
   keywords: ['emoji', 'picker', 'unicode', 'copy', 'paste'],

@@ -2,7 +2,7 @@ import { defineTool } from '../tool';
 import BracketIcon from '~icons/mdi/code-brackets';
 
 export const tool = defineTool({
-  name: 'TOML to YAML',
+  name: 'TOML 转 YAML',
   path: '/toml-to-yaml',
   description: 'Parse and convert TOML to YAML.',
   keywords: ['toml', 'yaml', 'convert', 'online', 'transform', 'parse'],

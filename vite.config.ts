@@ -54,7 +54,7 @@ export default defineConfig({
       strategies: 'generateSW',
       manifest: {
         name: 'IT Tools',
-        description: 'Aggregated set of useful tools for developers.',
+        description: '为开发人员提供的一组有用的工具。',
         display: 'standalone',
         lang: 'fr-FR',
         start_url: `${baseUrl}?utm_source=pwa&utm_medium=pwa`,

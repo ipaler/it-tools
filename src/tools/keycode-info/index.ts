@@ -2,7 +2,7 @@ import { Keyboard } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'Keycode info',
+  name: '键盘按键信息',
   path: '/keycode-info',
   description: 'Find the javascript keycode, code, location and modifiers of any pressed key.',
   keywords: [

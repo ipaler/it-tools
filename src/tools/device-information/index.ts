@@ -2,7 +2,7 @@ import { DeviceDesktop } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'Device information',
+  name: '设备信息',
   path: '/device-information',
   description: 'Get information about your current device (screen size, pixel-ratio, user agent, ...)',
   keywords: [

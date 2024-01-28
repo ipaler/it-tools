@@ -3,7 +3,7 @@ name: Other request
 about: Any request that does not concern a tool creation, a new feature request on a tool or a bug
 title: '[OTHER] '
 labels:
-assignees: CorentinTh
+assignees: ipaler
 ---
 
 **Describe the solution you'd like**

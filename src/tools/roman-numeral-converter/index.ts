@@ -2,7 +2,7 @@ import { LetterX } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'Roman numeral converter',
+  name: '罗马数字转换器',
   path: '/roman-numeral-converter',
   description: 'Convert Roman numerals to numbers and convert numbers to Roman numerals.',
   keywords: ['roman', 'arabic', 'converter', 'X', 'I', 'V', 'L', 'C', 'D', 'M'],

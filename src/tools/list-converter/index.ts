@@ -2,7 +2,7 @@ import { List } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'List converter',
+  name: '列表转换器',
   path: '/list-converter',
   description:
     'This tool can process column-based data and apply various changes (transpose, add prefix and suffix, reverse list, sort list, lowercase values, truncate values) to each row.',

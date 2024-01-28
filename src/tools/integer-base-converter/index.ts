@@ -2,7 +2,7 @@ import { ArrowsLeftRight } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'Integer base converter',
+  name: '数字进制转换器',
   path: '/base-converter',
   description: 'Convert number between different bases (decimal, hexadecimal, binary, octal, base64, ...)',
   keywords: ['integer', 'number', 'base', 'conversion', 'decimal', 'hexadecimal', 'binary', 'octal', 'base64'],

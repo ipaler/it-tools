@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve our tools
 title: '[BUG] '
 labels: bug
-assignees: CorentinTh
+assignees: ipaler
 ---
 
 **Which tool is impacted?**

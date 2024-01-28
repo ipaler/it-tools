@@ -2,7 +2,7 @@ import { Binary } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'Text to ASCII binary',
+  name: '文本转ASCII码',
   path: '/text-to-binary',
   description: 'Convert text to its ASCII binary representation and vice versa.',
   keywords: ['text', 'to', 'binary', 'converter', 'encode', 'decode', 'ascii'],

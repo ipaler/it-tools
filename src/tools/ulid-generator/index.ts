@@ -2,7 +2,7 @@ import { SortDescendingNumbers } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'ULID generator',
+  name: 'ULID生成器',
   path: '/ulid-generator',
   description: 'Generate random Universally Unique Lexicographically Sortable Identifier (ULID).',
   keywords: ['ulid', 'generator', 'random', 'id', 'alphanumeric', 'identity', 'token', 'string', 'identifier', 'unique'],

@@ -2,7 +2,7 @@ import { Key } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'JWT parser',
+  name: 'JWT解析器',
   path: '/jwt-parser',
   description: 'Parse and decode your JSON Web Token (jwt) and display its content.',
   keywords: [

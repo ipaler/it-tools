@@ -2,7 +2,7 @@ import { FileDiff } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'Text diff',
+  name: '文本差异对比',
   path: '/text-diff',
   description: 'Compare two texts and see the differences between them.',
   keywords: ['text', 'diff', 'compare', 'string', 'text diff', 'code'],

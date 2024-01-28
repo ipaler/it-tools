@@ -2,7 +2,7 @@ import { DeviceMobile } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'OTP code generator',
+  name: 'OTP验证码生成器',
   path: '/otp-generator',
   description: 'Generate and validate time-based OTP (one time password) for multi-factor authentication.',
   keywords: [

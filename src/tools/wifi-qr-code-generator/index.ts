@@ -2,7 +2,7 @@ import { Qrcode } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'WiFi QR Code generator',
+  name: 'WiFi二维码生成器',
   path: '/wifi-qrcode-generator',
   description:
     'Generate and download QR-codes for quick connections to WiFi networks.',

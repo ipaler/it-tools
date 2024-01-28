@@ -22,9 +22,9 @@ import { isNotThrowing } from '@/utils/boolean';
 import { withDefaultOnError } from '@/utils/defaults';
 
 const languages = {
-  'English': englishWordList,
   'Chinese simplified': chineseSimplifiedWordList,
   'Chinese traditional': chineseTraditionalWordList,
+  'English': englishWordList,
   'Czech': czechWordList,
   'French': frenchWordList,
   'Italian': italianWordList,
@@ -37,7 +37,7 @@ const languages = {
 const entropy = ref(generateEntropy());
 const passphraseInput = ref('');
 
-const language = ref<keyof typeof languages>('English');
+const language = ref<keyof typeof languages>('Chinese simplified');
 const passphrase = computed({
   get() {
     return withDefaultOnError(() => entropyToMnemonic(entropy.value, languages[language.value]), passphraseInput.value);

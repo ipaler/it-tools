@@ -2,7 +2,7 @@ import { Devices } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'MAC address generator',
+  name: 'MAC地址生成器',
   path: '/mac-address-generator',
   description: 'Enter the quantity and prefix. MAC addresses will be generated in your chosen case (uppercase or lowercase)',
   keywords: ['mac', 'address', 'generator', 'random', 'prefix'],

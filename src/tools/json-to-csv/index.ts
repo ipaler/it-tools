@@ -2,7 +2,7 @@ import { List } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'JSON to CSV',
+  name: 'JSON转CSV',
   path: '/json-to-csv',
   description: 'Convert JSON to CSV with automatic header detection.',
   keywords: ['json', 'to', 'csv', 'convert'],

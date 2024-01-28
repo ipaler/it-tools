@@ -2,7 +2,7 @@ import { Braces } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'JSON minify',
+  name: 'JSON压缩',
   path: '/json-minify',
   description: 'Minify and compress your JSON by removing unnecessary white spaces.',
   keywords: ['json', 'minify', 'format'],

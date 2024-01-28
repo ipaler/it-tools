@@ -2,7 +2,7 @@ import { Devices } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'MAC address lookup',
+  name: 'MAC地址查询',
   path: '/mac-address-lookup',
   description: 'Find the vendor and manufacturer of a device by its MAC address.',
   keywords: ['mac', 'address', 'lookup', 'vendor', 'parser', 'manufacturer'],

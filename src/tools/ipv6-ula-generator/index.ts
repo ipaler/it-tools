@@ -2,7 +2,7 @@ import { BuildingFactory } from '@vicons/tabler';
 import { defineTool } from '../tool';
 
 export const tool = defineTool({
-  name: 'IPv6 ULA generator',
+  name: 'IPv6 ULA生成器',
   path: '/ipv6-ula-generator',
   description: 'Generate your own local, non-routable IP addresses on your network according to RFC4193.',
   keywords: ['ipv6', 'ula', 'generator', 'rfc4193', 'network', 'private'],

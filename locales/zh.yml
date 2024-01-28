@@ -3,7 +3,7 @@ home:
     newestTools: '最新工具'
     favoriteTools: '我的收藏'
     allTools: '全部工具'
-  subtitle: '助力开发人员和 IT 工作者'
+  subtitle: '极客DIY工具箱'
   toggleMenu: '切换菜单'
   home: '主页'
   uiLib: 'UI 库'
@@ -40,9 +40,9 @@ about:
 
     ## 发现了 Bug？缺少工具？
 
-    如果目前这里没有您需要的工具，并且您认为它可能有用，欢迎在 GitHub 仓库的 [issues](https://github.com/CorentinTh/it-tools/issues/new/choose) 中提交新增功能的请求。
+    如果目前这里没有您需要的工具，并且您认为它可能有用，欢迎在 GitHub 仓库的 [issues](https://github.com/ipaler/it-tools/issues/new/choose) 中提交新增功能的请求。
 
-    如果您发现了 Bug，或者某些功能未能按预期工作，请在 GitHub 仓库的 [issues](https://github.com/CorentinTh/it-tools/issues/new/choose) 中提交错误报告。
+    如果您发现了 Bug，或者某些功能未能按预期工作，请在 GitHub 仓库的 [issues](https://github.com/ipaler/it-tools/issues/new/choose) 中提交错误报告。
 
 404:
   notFound: '404 页面不存在'
